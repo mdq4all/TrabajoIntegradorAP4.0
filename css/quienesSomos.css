@@ -1,0 +1,89 @@
+.descripcion_quines_somos{
+    font-family: 'Source Serif Pro', serif;
+    font-size: 20px;
+    margin: 3rem 4rem;
+    border: 1px solid grey;
+    padding: 15px;
+    border-radius: 15px;
+}
+.container_quienesSomos_titulos{
+    display: flex;
+    flex-direction: column;
+}
+.form_container{
+    display: flex;
+    justify-content: center;
+    margin: 5rem auto;
+    width: 80%;
+    border: 1px solid grey;
+    border-radius: 15px;
+    flex-wrap: wrap;
+}
+.formulario_libro{
+    width: 40%;
+    margin: 2rem ;
+}
+.imagen_form{
+    width: 40%;
+    margin: 2rem;
+    border-radius: 10px;
+}
+.input_form{
+    display: block;
+    width: 100%;
+    margin-bottom: 0.5rem;
+}
+.formulario_libro > button {
+    margin-top: 7rem;
+    width: 50%;
+}
+.botones_container{
+    margin-top: 2rem;
+}
+.botones_container > button{
+    margin-top: 1rem;
+}
+.boton_pdf{
+    margin: 0 1rem;
+    background-color: rgba(190, 187, 182, 0.901);
+}
+.boton_pdf:hover {
+    background-color: rgba(127, 126, 124, 0.901);
+}
+
+/* Toasts */
+.background_toast_error{
+    background-color: rgb(238, 22, 15);
+}
+.color_fuente_toast_error{
+    color: #fff;
+    font-weight: 600;
+}
+.background_toast_success {
+    background-color: #2ae412;
+}
+.color_fuente_toast_success {
+    color: #fff;
+    font-weight: 600;
+}
+
+
+/* Media query */
+
+@media (max-width: 1129px) {
+
+    .form_container{
+        width: 90%;
+    }
+}
+@media (max-width: 900px) {
+    .imagen_form{
+        width: 80%;
+    }
+    .form_container{
+        margin: 1rem;
+    }
+    .formulario_libro{
+        width: 80%;
+    }
+}

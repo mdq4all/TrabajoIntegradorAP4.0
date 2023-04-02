@@ -1,0 +1,13 @@
+.formulario_contacto{
+    margin: 0 auto;
+    /* width: 30%; */ 
+}
+.input_contacto{
+    margin-bottom: 2rem ;
+}
+.redes_container{
+    margin: 3rem;
+}
+.redes_container > img {
+    width:64px
+}

@@ -1,0 +1,180 @@
+[
+    {
+        "id": "1",
+        "titulo":"Psicología Oscura",
+        "fecha_de_publicacion": 2022,
+        "descripcion": "La verdad es que estás rodeado de Psicología Oscura y ni siquiera te das cuenta. Las personas que lo dominan conocen perfectamente el funcionamiento de la mente, sus debilidades, sus sesgos cognitivos, saben utilizar su lenguaje corporal para manipular a la persona con la que interactúan.",
+        "URL_portada": "https://m.media-amazon.com/images/I/61IXzd60A9L.jpg",
+        "autor": "Darell Wise"
+    },
+    {
+        "id": "2",
+        "titulo":"Mi Viaje Sin Ti",
+        "fecha_de_publicacion": 2017,
+        "descripcion": "Muchas veces tenemos que irnos a pesar del miedo, de las dudas, y de la falta de confianza. En esta ocasión, conocerás a Vespertine y viajarás de su mano luchando contra el temor a estar solo, el falso apego y la aceptación a la muerte. Entre poemas y narrativa Vespertine cuenta su historia. Sangrando cada escrito para cicatrizar el dolor de la pérdida, y el reto de emprender un viaje solo, en el que una sacudida a su realidad sirve de boleto y las respuestas son el único destino. Un viaje donde el pasado, el miedo al vacío, y un corazón roto, forman parte del equipaje. En donde la fuerza espiritual se convierte en una luz, para los días grises, y para esas noches en las que parece no haber salida. Mi viaje sin ti es el viaje de la búsqueda, del anhelo de respuesta, de la reflexión, y sobre todo... del encuentro.¿Como enfrentas el amor y la muerte al mismo tiempo? El libro que tienes en tus manos es la travesía que todos debemos emprender hacía nuestro interior. Descubriendo la eternidad de los instantes y la desnudez del alma. Para entender que cada final representa un nuevo comienzo y la oportunidad de trascender.",
+        "URL_portada": "https://m.media-amazon.com/images/I/613dCdJY2CL.jpg",
+        "autor": "Alejandro Sequera"
+
+    },
+    {
+        "id": "3",
+        "titulo":"Vidas paralelas, destinos cruzados",
+        "fecha_de_publicacion": 2018,
+        "descripcion": "Despertarse, vestirse, trabajar, comer: siempre la misma rutina. Todos los días son iguales. Ya no quiere levantarse por las mañanas, incluso cuando el amor podría estar al alcance de su mano.",
+        "URL_portada": "https://m.media-amazon.com/images/I/518Q3D+EcXL.jpg",
+        "autor": "Lorena A. Falcón"
+
+    },
+    {
+        "id": "4",
+        "titulo":"No Moriré En El Desierto",
+        "fecha_de_publicacion": 2019,
+        "descripcion": "El desierto es ese lugar de dolor, de prueba, de dificultades, de escasez, de enfermedad. Ese lugar en el que muchas veces estamos sin comprender lo que esta sucediendo. Este libro cumple ese propósito: que comprendas la razón por la que estas en el desierto y cómo no morir en el desierto. El pueblo de Israel anduvo 40 años en el desierto y de los más de ellos no se agradó Dios, por esa razón murieron en el desierto (1 Corintios 10:5). Este libro trata de cómo aprender a ver los desiertos como un lugar de crecimiento, desarrollo y madurez, más no como un lugar de claudicación y de derrota. ",
+        "URL_portada": "https://m.media-amazon.com/images/I/41SCSZMQ1qL.jpg",
+        "autor": "Jhonatan Castañeda"
+
+    },
+    {
+        "id": "5",
+        "titulo":"Violeta",
+        "fecha_de_publicacion": 2022,
+        "descripcion": "Violeta viene al mundo un tormentoso día de 1920, siendo la primera niña de una familia de cinco bulliciosos hermanos. Desde el principio su vida estará marcada por acontecimientos extraordinarios, pues todavía se sienten las ondas expansivas de la Gran Guerra cuando la gripe española llega a las orillas de su país sudamericano natal, casi en el momento exacto de su nacimiento.",
+        "URL_portada": "https://m.media-amazon.com/images/I/41DgxLwm2IS.jpg",
+        "autor": "Isabel Allende"
+
+    },
+    {
+        "id": "6",
+        "titulo":"90 minutos en el cielo",
+        "fecha_de_publicacion": 2016,
+        "descripcion": "En los diez años transcurridos desde la publicación de 90 Minutos en el Cielo, millones de personas en todo el mundo han leído la increíble historia real de la experiencia de Don Piper con la muerte y la vida, y al leerla han descubierto que sus propias vidas han cambiado.",
+        "URL_portada": "https://m.media-amazon.com/images/P/0800788354.01._SCLZZZZZZZ_SX500_.jpg",
+        "autor": "Don Piper"
+
+    },
+    {
+        "id": "7",
+        "titulo":"El poder de los hábitos",
+        "fecha_de_publicacion": 2022,
+        "descripcion": "Mediante 7 pasos sencillos y probados adoptarás un sistema de hábitos eficaz que te permitirá convertirte en quien quieres ser y te abrirá la puerta al crecimiento constante.",
+        "URL_portada": "https://m.media-amazon.com/images/I/61xWq9pNUsL.jpg",
+        "autor": "Daniel J. Martin"
+
+    },
+    {
+        "id": "8",
+        "titulo":"La Chica Bajo la Bandera",
+        "fecha_de_publicacion": 2021,
+        "descripcion": "Desde un oscuro sótano de la ciudad, Philip, un hombre de la resistencia, le ofrece un trato para salvar su vida cambiando su identidad. Para ello, ella deberá proporcionarle información sobre los alemanes, familiarizándose con ellos.",
+        "URL_portada": "https://m.media-amazon.com/images/I/51GYGzAl+ML.jpg",
+        "autor": "Alex Amit"
+
+    },
+    {
+        "id": "9",
+        "titulo":"Spare: En la sombra",
+        "fecha_de_publicacion": 2023,
+        "descripcion": "Fue una de las imágenes más desgarradoras del siglo XX: Dos niños, dos príncipes, caminando detrás del féretro de su madre, mientras el mundo contemplaba la escena con pesar… y horror. A la vez que se daba sepultura a Diana, princesa de Gales, miles de millones de personas se preguntaban qué debían pensar y sentir esos príncipes y qué rumbo tomarían sus vidas.",
+        "URL_portada": "https://m.media-amazon.com/images/I/91sLAjFhvAL.jpg",
+        "autor": "Prince Harry"
+
+    },
+    {
+        "id": "10",
+        "titulo":"La leyenda del ladrón",
+        "fecha_de_publicacion": 2021,
+        "descripcion": "Andalucía, 1587. En medio de un pueblo arrasado por la peste, uno de los comisarios de abastos del rey Felipe II encuentra a un niño que aún se aferra a la vida. Arriesgando su carrera, lo rescata de las garras de la muerte y lo lleva a Sevilla, sin poder imaginar lo que acabará suponiendo ese acto.",
+        "URL_portada": "https://m.media-amazon.com/images/I/91StRkoyGzL.jpg",
+        "autor": "Juan Gomez-Jurado"
+
+    },
+    {
+        "id": "11",
+        "titulo":"El principito",
+        "fecha_de_publicacion": 2019,
+        "descripcion": "El clásico de la literatura, no sólo infantil, narra la historia del Principito, el cual a través de un lenguaje aparentemente sencillo y de vivencias propias, deja enseñanzas de vida que ayudarán a la comprensión y valoración, tanto de las cosas sencillas como de las complejas.",
+        "URL_portada": "https://m.media-amazon.com/images/I/81UUK4M0SoL.jpg",
+        "autor": "Antoine De Saint-Exupéry"
+
+    },
+    {
+        "id": "12",
+        "titulo":"Devocional Soy Mujer Valiosa",
+        "fecha_de_publicacion": 2021,
+        "descripcion": "3 reflexiones que te inspiran a seguir una vida con propósito y significado.",
+        "URL_portada": "https://m.media-amazon.com/images/I/71xEeAR5rCL.jpg",
+        "autor": "Mujer Valiosa"
+
+    },
+    {
+        "id": "13",
+        "titulo":"Fear Is a Choice",
+        "fecha_de_publicacion": 2023,
+        "descripcion": "How would your life change if you knew that fear was not a given, but a choice?Get ready for a remarkable awakening, because what you've previously believed about fear is about to be turned upside down. After spending two decades exploring a variety of spiritual teachings, historical reflections, and physiological processes, author R. James Case discovered something he found astonishing: that fear is something learned, not instinctual, for us as humans. From our time in our mother's womb, we have been so inundated with fear that it has become the manipulator of choice, in part because we assume it is an organic part of our experience. Yet fear is neither inherent to who we are, nor is it our natural default. If you desire a new understanding of what fear is, want to bust open how it works and is used, and embrace that it is a choice we make-consciously or unconsciously-tap into the deep truths presented within the pages of this book. You will not only change your relationship with fear, but you will undergo quantum change and a welcoming of freedom unlike anything you have experienced in this lifetime.",
+        "URL_portada": "https://m.media-amazon.com/images/I/61OUNm5RQvL.jpg",
+        "autor": "R. James Case"
+
+    },
+    {
+        "id": "14",
+        "titulo":"El viaje de los colibríes",
+        "fecha_de_publicacion": 2023,
+        "descripcion": "El viaje de los colibríes ocupa ya un lugar en los corazones de los lectores mexicanos, desde que Sue Zurita publicó una edición independiente hace ocho años con la que logró llegar a más de 70 mil personas.",
+        "URL_portada": "https://m.media-amazon.com/images/I/91rIFktuGRL.jpg",
+        "autor": "Sue Zurita"
+
+    },
+    {
+        "id": "15",
+        "titulo":"El hombre que tenia miedo a vivir",
+        "fecha_de_publicacion": 2018,
+        "descripcion": "Una historia emotiva, ilusionante e inspiradora en la que descubrirás que vivir no es lo mismo que existir... ¡Atrévete a iniciar el trayecto que te hará cambiar... si quieres cambiar!",
+        "URL_portada": "https://m.media-amazon.com/images/I/61JoyHwsp3L.jpg",
+        "autor": "MIGUEL ÁNGEL MONTERO"
+
+    },
+    {
+        "id": "16",
+        "titulo":"Tácticas de conversación para principiantes para agradar, discutir y defenderse",
+        "fecha_de_publicacion": 2017,
+        "descripcion": "Quieres ser más agradable? ¿O defenderte con estilo de los ataques verbales de otros? ¿O sencillamente enfrentar de mejor manera las conversaciones difíciles con tu pareja o en tu trabajo?",
+        "URL_portada": "https://m.media-amazon.com/images/I/61ZA1OCcVTL.jpg",
+        "autor": "Steve Allen"
+
+    },
+    {
+        "id": "17",
+        "titulo":"Conquistar a una hermosa mujer",
+        "fecha_de_publicacion": 2022,
+        "descripcion": "Es fácil conquistar a una chica si eres encantador, extrovertido y divertido. Pero, ¿cómo puede un chico tímido, reservado y no tan hermoso encontrar el amor de su vida y ser feliz?",
+        "URL_portada": "https://m.media-amazon.com/images/P/B0B4BJNWK3.01._SCLZZZZZZZ_SX500_.jpg",
+        "autor": "Mike Fortuna"
+
+    },
+    {
+        "id": "18",
+        "titulo":"El Remanente",
+        "fecha_de_publicacion": 2018,
+        "descripcion": "La aparición de un extraño hombre en carretera lleva a Preston Wells a un destino inesperado que le cruza con Regan Harper, un joven telequinético con quien emprende una nueva aventura para descubrir las intenciones del misterioso individuo.",
+        "URL_portada": "https://m.media-amazon.com/images/I/71M1CLae8oL.jpg",
+        "autor": "Checko E. Martinez"
+
+    },
+    {
+        "id": "19",
+        "titulo":"El asesino del lago",
+        "fecha_de_publicacion": 2016,
+        "descripcion": "La familia Peterson tiene una vida aparentemente tranquila y feliz en un bello departamento con vista al lago, en una zona residencial de la ciudad. Pero este estado de calma se ve alterado cuando su vecino de enfrente es misteriosamente asesinado.",
+        "URL_portada": "https://m.media-amazon.com/images/I/51rnve0sGuL.jpg",
+        "autor": "Raúl Garbantes"
+
+    },
+    {
+        "id": "20",
+        "titulo":"El secreto de la paz personal",
+        "fecha_de_publicacion": 2004,
+        "descripcion": "La gente está buscando respuestas a la confusión, la enfermedad moral y el vacío espiritual que oprime al mundo. Todos estamos clamando por dirección, por consuelo, por paz. ¿Hay alguna salida para nuestro dilema? ¿Podemos verdaderamente encontrar paz con Dios? ¡Sí! Pero sólo si la buscamos en el lugar correcto.",
+        "URL_portada": "https://m.media-amazon.com/images/I/418lqFOeR4L._SY346_.jpg",
+        "autor": " Billy Graham"
+    }
+]

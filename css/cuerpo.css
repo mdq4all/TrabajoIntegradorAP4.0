@@ -1,0 +1,23 @@
+.titulo_principal {
+    text-align: center;
+    margin: 2rem;
+}
+.seccion_libros {
+    margin-top: 5rem;
+}
+
+.imagen_principal_contenedor{
+    text-align: center;
+}
+.imagen_principal {
+    height: 20rem;
+}
+
+/* Pantallas menores a 766px */
+
+@media (max-width: 766px) {
+    .imagen_principal{
+        width: 100%;
+        height: 100%;
+    }
+}
