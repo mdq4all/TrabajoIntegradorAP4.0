@@ -1,3 +1,4 @@
+/* Resetea algunos atributos por defecto*/
 li {
     list-style: none;
 }
@@ -6,8 +7,8 @@ h3{
 }
 a:link, a:visited {
     text-decoration: none;
-    /* color: inherit; */
 }
+
 
 .lista_libros {
     display: grid;
@@ -20,7 +21,12 @@ a:link, a:visited {
     max-height: 30rem;
     border: 1px solid rgb(154, 153, 153);
     width: 15rem;
-    color:rgb(154, 153, 153)
+    transition: 0.5s;
+}
+.tarjeta_contenedor:hover{
+    transform: scale(1.05);
+    /* filter: brightness(160%); */
+    box-shadow: 4px 5px 23px 18px #545151;
 }
 .imagen_tarjeta{
     width: 100%;
@@ -47,6 +53,13 @@ a:link, a:visited {
 }
 .anio_publicacion{
     font-size: 15px;
+}
+/* Aplica el tema oscuro o claro */
+.dark{
+    color: #fff;
+}
+.light {
+    color:#000;
 }
 
 /* Media query */

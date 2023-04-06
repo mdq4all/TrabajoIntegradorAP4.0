@@ -9,10 +9,9 @@ export function listarLibros() {
         try {
             let res = await fetch("libros.json"),
                 json = await res.json();
-
+            //Envia error en casa de error con el JSON
             if (!res.ok) throw {status: res.status, statusText: res.statusText};
 
-             
             json.forEach(e => {
                 const li = document.createElement("li");
                 const libro = `

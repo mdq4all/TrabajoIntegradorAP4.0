@@ -32,6 +32,12 @@ export function temaOscuro () {
         tituloPrincipal.forEach(element => {
             element.style.color = "white";
         })
+        $(document).ready(function(){
+            $("label").css("color", "#fff");
+            $("#button_pdf"). css("color", "#9E918E");
+            $("#listado_libros").removeClass("light");
+            $("#listado_libros").addClass("dark");
+        });
     }
     
     //Funcion modo claro
@@ -42,7 +48,13 @@ export function temaOscuro () {
     
         tituloPrincipal.forEach(element => {
             element.style.color = "black";
-        });        
+        });    
+        $(document).ready(function(){
+            $("label").css("color", "#000");
+            $("#button_pdf"). css("color", "#000");
+            $("#listado_libros").removeClass("dark");
+            $("#listado_libros").addClass("light");
+        });    
     }
 
 }

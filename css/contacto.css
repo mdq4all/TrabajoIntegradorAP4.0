@@ -1,13 +1,36 @@
+/* Shake animation */
+@keyframes shake {
+    10% {
+        transform: rotate(15deg);
+    }
+    20% {
+        transform: rotate(-15deg);
+    }
+    30% {
+        transform: rotate(15deg);
+    }
+    40% {
+        transform: rotate(-15deg);
+    }
+}
+
 .formulario_contacto{
-    margin: 0 auto;
-    /* width: 30%; */ 
+    margin: 2rem auto 4rem;
 }
 .input_contacto{
     margin-bottom: 2rem ;
 }
 .redes_container{
-    margin: 3rem;
+    margin: 3rem auto;
+    padding: 15px;
+    border: 2px solid #7d7b7b;
+    border-radius: 15px;
+    width: 80%;
 }
 .redes_container > img {
     width:64px
+}
+/* Aplica una animacion */
+.logo_redes_imagenes:hover {
+    animation: shake 0.25s;
 }

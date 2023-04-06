@@ -11,6 +11,7 @@
     position: fixed;
     top: 0;
     color: #fff;
+    z-index: 10;
 }
 .navbar-brand{
     border: 2px solid white;
@@ -72,4 +73,15 @@
     transform: translateX(1.5em);
    }
 
+   /* Media Query */
+
+   @media (max-width: 600px) {
+    .form_navbar{
+        flex-direction: column;
+    }
+    .form_navbar > button {
+        margin-top: 0.5rem !important;
+        max-width: 6rem;
+    }
+   }
    

@@ -86,4 +86,11 @@
     .formulario_libro{
         width: 80%;
     }
+    .botones_container{
+        display: flex;
+        flex-direction: column;
+    }
+    .botones_container > button {
+        margin: 0.5rem 3rem;
+    }
 }
