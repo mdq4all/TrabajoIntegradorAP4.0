@@ -34,3 +34,14 @@
 .logo_redes_imagenes:hover {
     animation: shake 0.25s;
 }
+/*  Media Query */
+@media (max-width:500px) {
+    .redes_container{
+        width: 95%;
+    }
+}
+@media (max-width:400px) {
+    .logo_redes_imagenes {
+        max-width: 48px;
+    }
+}

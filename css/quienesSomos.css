@@ -94,3 +94,9 @@
         margin: 0.5rem 3rem;
     }
 }
+@media (max-width: 600px) {
+    .descripcion_quines_somos {
+        margin: 2rem 0.5rem;
+        width: 95%;
+    }
+}
